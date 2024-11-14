@@ -18,7 +18,7 @@ let f=null
 
 let g=[7,2,1,5]
 
-console.log(b--)
+console.log(Number(f))
 a++,++a
 a=a+1;
 
