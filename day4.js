@@ -89,3 +89,7 @@
 //     default: console.log("invalid entry")
 //         break;
 // }
+
+for (let index = 0; index < array.length; index+=5) {
+    console.log(index)
+}
