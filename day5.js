@@ -75,6 +75,6 @@ console.log(name + " is " + age + " years old.");
 }
 
 
-let nam="pushp";
-let age =30;
+let nam="shweta";
+let age =25;
 sayHello(nam, age);
