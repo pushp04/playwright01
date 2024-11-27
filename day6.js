@@ -58,18 +58,19 @@
     // }
     // console.log(func())
         
-// let add =(x,y) => {x+y}
-// console.log(add)
-
+    let x=5
+    let y=10
+let add =(x,y) =>{return console.log(x+y)}
+add(x,y)
 // let ss=10
 // let val=new Number(ss)
 // let numb=Number(ss)
 
 // console.log(val)
 // console.log(numb)
-let n=2
-let nu = 901.5312
-let num= new Number(901.5312);
+// let n=2
+// let nu = 901.5312
+// let num= new Number(901.5312);
 
 // console.log(Number.NEGATIVE_INFINITY)
 // Number.MIN_VALUE
@@ -77,15 +78,15 @@ let num= new Number(901.5312);
 // Number.NEGATIVE_INFINITY
 
 
-let a=nu.toFixed()
-let b=nu.toPrecision(6)
-let c=n.toExponential()
-let d=Number.MAX_SAFE_INTEGER
+// let a=nu.toFixed()
+// let b=nu.toPrecision(6)
+// let c=n.toExponential()
+// let d=Number.MAX_SAFE_INTEGER
 
 // console.log(a)
 // console.log(c)
 
-console.table([a,b,c,d,nu,num])
+// console.table([a,b,c,d,nu,num])
 
 
 
